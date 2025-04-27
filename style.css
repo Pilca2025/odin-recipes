@@ -1,0 +1,19 @@
+body{
+    width: 350px;
+    font-family: "Papyrus";
+}
+
+h1{
+    background-color: rgb(230, 230, 230);
+    text-align: center;
+}  
+
+ul{
+    display: flex;
+    border: 2px solid grey;
+}
+
+a {
+    color: black;
+    
+}
