@@ -1,0 +1,34 @@
+button {
+    background-color: rgb(230, 230, 230);
+}
+
+body {
+    font-family: Tahoma;
+    color: black;
+}
+
+h1,
+h2  {
+    width: 450px;
+    background-color: rgb(230, 230, 230);
+    text-align: center;
+    border: 2px solid grey;
+    font-style: italic;
+    }
+
+ul, 
+ol {
+    width: 410px;
+    border: 2px solid grey;
+    padding: 20px;
+}
+
+
+
+.block {
+    display: block;
+}
+
+img {
+    border: 2px solid grey;
+}
