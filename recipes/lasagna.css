@@ -1,0 +1,41 @@
+button {
+    background-color: rgb(230, 230, 230);
+}
+
+body {
+    width: 450px;
+    color: black;
+}
+
+h1,
+h2 {
+    background-color: rgb(230, 230, 230);
+    text-align: center;
+    border: 2px solid grey;
+    font-style: italic;
+
+}
+
+ul,
+ol {
+    border: 2px solid grey;
+
+}
+
+li{
+    margin: 4px;
+
+}
+
+
+
+
+.block {
+    display: block;   
+}
+
+
+img {
+    border: 2px solid grey;
+}
+

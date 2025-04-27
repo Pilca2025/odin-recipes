@@ -1,19 +1,32 @@
 body{
-    width: 350px;
+    width: 351px;
     font-family: "Papyrus";
 }
 
-h1{
-    background-color: rgb(230, 230, 230);
-    text-align: center;
-}  
+.card {
+    border: 3px solid grey;
+    background-color: rgb(230, 230, 230);;
+}
 
-ul{
+h1 {
+    
+    text-align: center;
+    width: 347px;
+    font-style: italic;
+    margin: 2px;
+}
+
+ul {
     display: flex;
-    border: 2px solid grey;
+    border-top: 2px solid grey;
+    margin: 0;
+}
+
+li{
+    padding-top: 4px;
 }
 
 a {
     color: black;
-    
+    text-decoration: none;
 }
